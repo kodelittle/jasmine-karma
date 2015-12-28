@@ -1,0 +1,8 @@
+{
+	"name": "jasmine-karma",
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-mocks": "1.4.x"
+    
+  }
+}
