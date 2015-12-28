@@ -1,3 +1,5 @@
+// The latest setup does not need bower. 
+
 {
 	"name": "jasmine-karma",
   "dependencies": {
